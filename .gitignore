@@ -1,0 +1,4 @@
+.haxelib/
+
+# MACOS
+.DS_Store

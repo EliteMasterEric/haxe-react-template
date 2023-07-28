@@ -1,0 +1,6 @@
+# JS
+node_modules/
+
+# Build files
+src/index.js
+src/index.js.map

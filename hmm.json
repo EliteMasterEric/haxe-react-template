@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    {
+      "name": "react",
+      "type": "haxelib",
+      "version": null
+    }
+  ]
+}

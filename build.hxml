@@ -1,0 +1,21 @@
+# React project build file
+
+# Build target flags
+# Output folder
+-js bin/src/index.js
+# Classpath
+-cp src
+# Main class
+-main com.elitemastereric.react.Main
+# Debug build
+-debug
+# Dead code elimination
+-dce full
+
+# Libraries
+#React
+-lib react
+
+# Compile defines
+-D react_global
+-D react_ver=18.2
